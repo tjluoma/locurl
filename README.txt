@@ -7,9 +7,9 @@ http://www.google.com/url?sa=t&rct=j&q=macdrifter&source=web&cd=1&ved=0CB0QFjAA&
 
 and give you their destination:
 
-<http://www.macdrifter.com/>
+http://www.macdrifter.com/
 
 For more details, see
 
-<http://luo.ma/locurl>
+http://luo.ma/locurl
 
